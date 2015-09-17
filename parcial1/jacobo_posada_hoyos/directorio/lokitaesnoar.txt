@@ -1,6 +1,0 @@
-Estrato=1
-Comuna=4
-Enfermos=8
-Ancianos=28
-Infantes=22
-Discapacitados=4
