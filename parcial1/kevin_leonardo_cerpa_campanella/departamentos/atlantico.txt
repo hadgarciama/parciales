@@ -1,0 +1,6 @@
+﻿25
+HACIENDA NAPOLES
+vacas*560
+hectareas*320
+trabajadores*258
+establos*67

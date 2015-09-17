@@ -1,0 +1,6 @@
+﻿24
+HACIENDA LAS SOLERAS
+vacas*1000
+hectareas*666
+trabajadores*290
+establos*68

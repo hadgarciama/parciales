@@ -1,0 +1,6 @@
+﻿33
+HACIENDA BERLIN
+vacas*1500
+hectareas*360
+trabajadores*450
+establos*70

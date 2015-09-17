@@ -1,0 +1,4 @@
+﻿vacas*500
+hectareas*300
+trabajadores*250
+establos*50
