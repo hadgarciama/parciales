@@ -1,0 +1,6 @@
+1028
+julian bermudez
+metal*500
+cristal*200
+hierro*400
+hidrogeno*700
