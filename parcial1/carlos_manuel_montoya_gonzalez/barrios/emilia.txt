@@ -1,0 +1,6 @@
+﻿ESTRATO:2
+COMUNA:3
+Peces*50
+Perros*26
+Gatos*40
+Pejelagartos*7
