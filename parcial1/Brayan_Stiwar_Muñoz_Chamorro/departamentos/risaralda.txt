@@ -1,0 +1,6 @@
+﻿pereira
+941283
+metalmecanica 1
+alimetaria    2
+automovilitica 3
+armamentistica 4

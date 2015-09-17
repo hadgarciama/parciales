@@ -1,0 +1,6 @@
+﻿mocoa
+337054
+metalmecanica 2
+alimetaria 0
+automovilitica 2
+armamentistica 2

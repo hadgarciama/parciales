@@ -1,0 +1,6 @@
+﻿armenia
+558934
+metalmecanica 0
+alimetaria 0
+automovilitica 2
+armamentistica 2
