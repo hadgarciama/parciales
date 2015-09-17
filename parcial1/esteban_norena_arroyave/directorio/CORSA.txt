@@ -1,0 +1,7 @@
+precio=25000
+velocidad=450
+frenos ABS=6
+HP=3000
+cilindros=8
+airbags=4
+equipos=1
