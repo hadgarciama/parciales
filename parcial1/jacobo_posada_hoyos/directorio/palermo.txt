@@ -1,0 +1,6 @@
+Estrato=6
+Comuna=8
+Enfermos=10
+Ancianos=20
+Infantes=25
+Discapacitados=5
