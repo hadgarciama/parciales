@@ -1,0 +1,6 @@
+CHEC 
+27
+solar 340
+eolica 220
+geotermica 460
+hidrica 380

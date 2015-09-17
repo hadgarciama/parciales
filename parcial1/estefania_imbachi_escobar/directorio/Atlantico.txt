@@ -1,0 +1,6 @@
+ELECTRICARIBE
+23
+solar 240
+eolica 350
+geotermica 520
+hidrica 630

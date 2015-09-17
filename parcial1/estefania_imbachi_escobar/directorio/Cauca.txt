@@ -1,0 +1,6 @@
+Cedelca 
+42
+solar 380
+eolica 560
+geotermica 220
+hidrica 670

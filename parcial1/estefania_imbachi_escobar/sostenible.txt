@@ -1,0 +1,4 @@
+solar 240
+eolica 480
+geotermica 550
+hidrica 600

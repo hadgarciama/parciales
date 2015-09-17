@@ -1,0 +1,6 @@
+EBSA 
+123
+solar 350
+eolica 290
+geotermica 240
+hidrica 620
