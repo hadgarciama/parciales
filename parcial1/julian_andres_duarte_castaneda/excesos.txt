@@ -1,0 +1,4 @@
+﻿ingenieros*10
+operarios*15
+administradores*10
+aseadores*5
