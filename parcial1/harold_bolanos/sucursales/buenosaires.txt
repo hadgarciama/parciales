@@ -1,0 +1,7 @@
+﻿JavierMejia=1
+IE=20
+IH=12
+IS=14
+IC=17
+IT=10
+TT=77

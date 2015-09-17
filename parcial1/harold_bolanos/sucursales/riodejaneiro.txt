@@ -1,0 +1,7 @@
+﻿JosephMourinho=1
+IE=14
+IH=20
+IS=10
+IC=20
+IT=10
+TT=80
