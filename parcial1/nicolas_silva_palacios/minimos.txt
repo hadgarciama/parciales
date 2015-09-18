@@ -1,0 +1,4 @@
+Colmenas*80
+Equipos*1000
+Trabajadores*80
+MielProducida*1000

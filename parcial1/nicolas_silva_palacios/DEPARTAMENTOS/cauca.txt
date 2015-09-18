@@ -1,0 +1,6 @@
+Lotes por departamento 75 
+PPrincipal Francisco Arturo Silva Aldana
+Colmenas*1500
+Equipos*750
+Trabajadores*75
+MielProducida*10000

@@ -1,0 +1,2 @@
+
+Creados archivos errores.txt y registro_de_operacion.txt

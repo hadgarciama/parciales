@@ -1,0 +1,35 @@
+TOTALES
+
+	Colmenas 305200
+
+	Equipos 3450
+
+	Trabajadores 345
+
+	MielProducida 75000
+
+PROMEDIO
+
+	Colmenas 76300
+
+	Equipos 862
+
+	Trabajadores 86
+
+	MielProducida 18750
+
+DATOS DEPARTAMENTOS
+
+	amazonas.txt Lotes por departamento 100
+ 	PPrincipal Francisco Arturo Silva Aldana
+
+ 	atrato.txt Lotes por departamento 80
+ 	PPrincipal Carlos Arberto Tapasco
+
+ 	catatumbo.txt Lotes por departamento 90
+ 	PPrincipal Francisco Arturo Silva Aldana
+
+ 	cauca.txt Lotes por departamento 75 
+ 	PPrincipal Francisco Arturo Silva Aldana
+
+ 
