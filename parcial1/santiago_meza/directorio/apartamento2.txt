@@ -1,0 +1,7 @@
+DanielDiaz
+inquilinos=5
+televisor=4
+nevera=1
+lavadora=1
+dvd=4
+computador=1
