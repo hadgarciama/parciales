@@ -1,0 +1,6 @@
+dueno=CETSA_SA_ESP
+num_piso_edificio=12
+fotocopiadora=10
+aire_acondicionado=8
+calefacotor=0
+nevera=3

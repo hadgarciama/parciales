@@ -1,0 +1,6 @@
+dueno=Lopez_SAS
+num_piso_edificio=10
+fotocopiadora=10
+aire_acondicionado=4
+calefacotor=1
+nevera=2

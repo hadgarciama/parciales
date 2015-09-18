@@ -1,0 +1,6 @@
+dueno=Cable_Plaza
+num_piso_edificio=6
+fotocopiadora=6
+aire_acondicionado=9
+calefacotor=2
+nevera=4
