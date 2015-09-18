@@ -1,0 +1,4 @@
+metal=14
+cristal=4
+hierro=9
+hidrogeno=18
