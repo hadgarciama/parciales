@@ -1,0 +1,5 @@
+termica=34000
+hidraulica=12000
+eolica=5800
+biomasa=5800
+geotermica=23000

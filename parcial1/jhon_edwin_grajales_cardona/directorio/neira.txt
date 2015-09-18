@@ -1,0 +1,7 @@
+marino murillo
+3500000
+termica=38000
+hidraulica=120000
+eolica=800
+biomasa=6000
+geotermica=53000

@@ -1,0 +1,5 @@
+termica
+hidraulica
+eolica
+biomasa
+geotermica
