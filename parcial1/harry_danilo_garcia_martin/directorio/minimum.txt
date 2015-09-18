@@ -1,0 +1,10 @@
+﻿Function | minimum_requirements
+Brand| generic
+Frec_processor[MHz]|2900
+Cant_processor[#]|1
+Cores[#]|4
+Ram[Gb]|4
+Cant_Hdd[#]|2
+Tot_cap_Hdd[Gb]|1200
+Pot[Watts]|750
+Location| servers_directory
