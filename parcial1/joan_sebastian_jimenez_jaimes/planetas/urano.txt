@@ -1,0 +1,7 @@
+Nombre*urano
+Distancia*0,0003027918751413869
+lunas*27
+metal*2500
+cristal*1923
+hierro*3434
+mercurio*5560
