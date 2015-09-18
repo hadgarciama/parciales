@@ -1,0 +1,6 @@
+longitud del rio 1.497 km
+desembocadura en el Orinoco
+tilapia*1200
+nicuro*40000
+bagre*400986
+carpa*7008765
