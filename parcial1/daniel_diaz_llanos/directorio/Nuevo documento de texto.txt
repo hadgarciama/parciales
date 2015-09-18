@@ -1,0 +1,9 @@
+﻿Sutanito Solemnio Salamino
+2
+nevera=5
+estufa=4
+lavadora=3
+microhondas=8
+televisor=3
+ducha=2
+portatil=0
