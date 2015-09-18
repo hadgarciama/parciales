@@ -1,0 +1,3 @@
+1000000000
+100
+20motores,10alerones,8galones_de_combustible,4propulsores_jet

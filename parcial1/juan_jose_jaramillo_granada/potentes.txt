@@ -1,0 +1,4 @@
+2motores
+3alerones
+4galones_de_combustible
+1propulsores_jet
