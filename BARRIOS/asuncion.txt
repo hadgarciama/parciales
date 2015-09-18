@@ -1,0 +1,8 @@
+1 
+5 
+neonato*1
+infante*6
+adolescente*10 
+adulto*7
+adulto mayor*4
+embarazada*5

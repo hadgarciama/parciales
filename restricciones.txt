@@ -1,0 +1,6 @@
+neonato*4
+infante*5
+adolescente*8 
+adulto*6 
+adulto mayor*3
+embarazada*4
