@@ -1,0 +1,7 @@
+armando caseres
+3500000
+termica=39000
+hidraulica=16000
+eolica=10800
+biomasa=8800
+geotermica=1000

@@ -1,0 +1,7 @@
+camilo garzon
+7500000
+termica=34590
+hidraulica=17200
+eolica=53800
+biomasa=1800
+geotermica=34000

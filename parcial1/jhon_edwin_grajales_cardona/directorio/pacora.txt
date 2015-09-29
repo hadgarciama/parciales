@@ -1,0 +1,7 @@
+cristina otalvaro
+8500000
+termica=37600
+hidraulica=9500
+eolica=51800
+biomasa=6800
+geotermica=43000

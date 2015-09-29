@@ -1,0 +1,7 @@
+gustavo valencia
+5000000
+termica=4000
+hidraulica=18000
+eolica=51800
+biomasa=5900
+geotermica=27000
