@@ -1,0 +1,6 @@
+﻿.
+Julian_Duarte
+ingenieros*30
+operarios*30
+administradores*30
+aseadores*30
