@@ -1,0 +1,4 @@
+metal*400
+cristal*300
+hierro*500
+hidrogeno*700
