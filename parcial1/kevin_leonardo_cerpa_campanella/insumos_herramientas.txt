@@ -1,0 +1,4 @@
+﻿vacas
+hectareas
+trabajadores
+establos

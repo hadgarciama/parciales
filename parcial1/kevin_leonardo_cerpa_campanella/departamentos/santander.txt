@@ -1,0 +1,6 @@
+﻿32
+HACIENDA EL CIELO
+vacas*1502
+hectareas*362
+trabajadores*452
+establos*72

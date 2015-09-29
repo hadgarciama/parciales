@@ -1,0 +1,6 @@
+﻿10
+HACIENDA HERMANOS CERPA C
+vacas*712
+hectareas*320
+trabajadores*310
+establos*65

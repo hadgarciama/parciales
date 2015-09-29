@@ -1,0 +1,6 @@
+﻿25
+HACIENDA  LA ISLA BONITA
+vacas*1200
+hectareas*435
+trabajadores*300
+establos*78
