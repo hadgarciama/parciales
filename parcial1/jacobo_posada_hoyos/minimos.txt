@@ -1,0 +1,4 @@
+Enfermos=7
+Ancianos=20
+Infantes=13
+Discapacitados=4
