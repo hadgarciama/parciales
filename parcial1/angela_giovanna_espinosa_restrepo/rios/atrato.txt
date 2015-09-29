@@ -1,0 +1,6 @@
+longitud del rio  650 km
+desembocadura en el Golfo de Uraba
+tilapia*15000
+nicuro*30000
+bagre*22000
+carpa*13000

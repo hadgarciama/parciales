@@ -1,0 +1,6 @@
+longitud del rio 7.020 km
+desembocadura en  el Océano Atlántico
+tilapia*104445448
+nicuro*40000
+bagre*20000
+carpa*10000

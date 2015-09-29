@@ -1,0 +1,6 @@
+longitud del rio  500 km
+desembocadura en el Lago Maracaibo 
+tilapia*3000
+nicuro*18000
+bagre*22500
+carpa*7852
