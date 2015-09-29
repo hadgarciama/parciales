@@ -1,0 +1,7 @@
+Nombre*marte
+Distancia*0,000024155306893301653
+lunas*2
+metal*2000
+cristal*2000
+hierro*2000
+mercurio*2000

@@ -1,0 +1,7 @@
+Nombre*jupiter
+Distancia*0,00008233217279125351
+lunas*63
+metal*1600
+cristal*3000
+hierro*10000
+mercurio*250

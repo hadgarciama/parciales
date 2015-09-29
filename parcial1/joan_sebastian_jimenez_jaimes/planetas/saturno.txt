@@ -1,0 +1,7 @@
+Nombre*saturno
+Distancia*0,0001505453985955772
+lunas*62
+metal*10232
+cristal*56402
+hierro*23852
+mercurio*293124

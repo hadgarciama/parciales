@@ -1,0 +1,7 @@
+Nombre*neptuno
+Distancia*0,00047460074811487044
+lunas*13
+metal*4356
+cristal*9237
+hierro*2936
+mercurio*2931

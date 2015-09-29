@@ -1,0 +1,7 @@
+Nombre*mercurio
+Distancia*0,000006123880620837039
+lunas*0
+metal*3560
+cristal*4230
+hierro*3252
+mercurio*1999

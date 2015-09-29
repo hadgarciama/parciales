@@ -1,0 +1,7 @@
+Nombre*venus
+Distancia*0,000011397222266557821
+lunas*0
+metal*2300
+cristal*2398
+hierro*1999
+mercurio*2350
