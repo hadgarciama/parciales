@@ -1,6 +1,0 @@
-﻿1948
-gerard_kuiper
-metal=7
-cristal=4
-hierro=2
-hidrogeno=8

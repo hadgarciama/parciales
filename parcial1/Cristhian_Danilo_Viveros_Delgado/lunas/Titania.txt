@@ -1,6 +1,0 @@
-﻿1787
-william_herschel
-metal=25
-cristal=27
-hierro=30
-hidrogeno=32

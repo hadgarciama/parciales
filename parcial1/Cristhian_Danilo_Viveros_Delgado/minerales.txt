@@ -1,4 +1,0 @@
-metal
-cristal
-hierro
-hidrogeno

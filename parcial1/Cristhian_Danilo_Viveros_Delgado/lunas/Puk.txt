@@ -1,6 +1,0 @@
-1948
-gerard_kuiper
-metal=dies7
-cristal=veinte
-hierro=2333
-hidrogeno=diezyseis

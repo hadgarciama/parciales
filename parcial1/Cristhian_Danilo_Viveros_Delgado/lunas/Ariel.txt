@@ -1,6 +1,0 @@
-﻿1851
-william_lassell
-metal=15
-cristal=12
-hierro=18
-hidrogeno=20
