@@ -1,0 +1,4 @@
+﻿peces*17
+perros*10
+gatos*23
+pejelagartos*30
