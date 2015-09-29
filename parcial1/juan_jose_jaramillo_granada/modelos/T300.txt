@@ -1,0 +1,3 @@
+250000000
+50
+2motores,4alerones,4galones_de_combustible,2propulsores_jet

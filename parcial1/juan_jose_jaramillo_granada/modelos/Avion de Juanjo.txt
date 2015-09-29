@@ -1,0 +1,3 @@
+1000
+2
+1motores,2alerones,2galones_de_combustible
