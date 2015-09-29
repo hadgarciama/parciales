@@ -1,0 +1,6 @@
+EPM
+125
+solar 248
+eolica 474
+geotermica 275
+hidrica 420
