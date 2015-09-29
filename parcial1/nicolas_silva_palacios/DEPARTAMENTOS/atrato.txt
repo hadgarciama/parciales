@@ -1,0 +1,6 @@
+Lotes por departamento 80
+PPrincipal Carlos Arberto Tapasco
+Colmenas*2000
+Equipos*800
+Trabajadores*80
+MielProducida*20000
