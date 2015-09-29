@@ -1,0 +1,6 @@
+﻿ metalmecanica  1
+alimetaria     1
+automovilitica 1
+armamentistica 1
+
+

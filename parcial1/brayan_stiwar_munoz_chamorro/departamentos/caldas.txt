@@ -1,0 +1,6 @@
+﻿manizales
+984128
+metalmecanica 0
+alimetaria 3
+automovilitica 2
+armamentistica 2

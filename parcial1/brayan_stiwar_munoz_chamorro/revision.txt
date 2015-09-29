@@ -1,0 +1,11 @@
+﻿PROMEDIOS
+metalmecanica   0.75
+alimetaria   1.25
+automovilitica   2.25
+armamentistica   2.5
+
+DEPARTAMENTOS REVISADOS 
+Departamento: caldas  Cap:  manizales   Pob:984128
+Departamento: putumayo  Cap:  mocoa   Pob:337054
+Departamento: quindio  Cap:  armenia   Pob:558934
+Departamento: risaralda  Cap:  pereira   Pob:941283
