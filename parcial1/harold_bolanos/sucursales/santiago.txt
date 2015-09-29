@@ -1,0 +1,7 @@
+﻿ArmandoJaramillo=1
+IE=17
+IH=12
+IS=18
+IC=11
+IT=10
+TT=71

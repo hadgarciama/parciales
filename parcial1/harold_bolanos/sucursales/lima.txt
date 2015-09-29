@@ -1,0 +1,7 @@
+﻿RosarioSerna=1
+IE=20
+IH=20
+IS=15
+IC=12
+IT=10
+TT=83

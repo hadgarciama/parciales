@@ -1,0 +1,7 @@
+﻿Gerente=1
+IE=10
+IH=15	
+IS=15
+IC=10
+IT=8
+TT=51

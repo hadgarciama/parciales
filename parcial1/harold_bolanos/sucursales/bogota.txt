@@ -1,0 +1,7 @@
+﻿CarlosSaldarriaga=1
+IE=15
+IH=15
+IS=15
+IC=10
+IT=10
+TT=66
