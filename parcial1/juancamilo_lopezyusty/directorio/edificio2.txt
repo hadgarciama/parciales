@@ -1,0 +1,6 @@
+dueno=Chec_Grupo_EPM
+num_piso_edificio=8
+fotocopiadora=5
+aire_acondicionado=6
+calefacotor=1
+nevera=1

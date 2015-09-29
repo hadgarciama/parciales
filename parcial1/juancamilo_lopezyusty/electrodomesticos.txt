@@ -1,0 +1,4 @@
+fotocopiadora
+aire_acondicionado
+calefacotor
+nevera

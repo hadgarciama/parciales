@@ -1,0 +1,4 @@
+fotocopiadora=15
+aire_acondicionado=10
+calefacotor=2
+nevera=5
