@@ -1,0 +1,5 @@
+frenos ABS=2
+HP=2000
+cilindros=4
+airbags=4
+equipos=3

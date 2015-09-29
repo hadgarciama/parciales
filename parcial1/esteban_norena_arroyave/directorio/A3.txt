@@ -1,0 +1,7 @@
+precio=15000
+velocidad=500
+frenos ABS=4
+HP=1800
+cilindros=5
+airbags=4
+equipos=2
