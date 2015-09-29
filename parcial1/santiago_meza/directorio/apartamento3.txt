@@ -1,0 +1,7 @@
+AlejandraQuintero
+inquilinos=3
+televisor=2
+nevera=1
+lavadora=1
+dvd=1
+computador=3

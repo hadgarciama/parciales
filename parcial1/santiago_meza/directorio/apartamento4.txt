@@ -1,0 +1,7 @@
+DanielaPalacio
+inquilinos=4
+televisor=4
+nevera=2
+lavadora=1
+dvd=2
+computador=2

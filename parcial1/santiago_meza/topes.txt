@@ -1,0 +1,5 @@
+televisor=3
+nevera=2
+lavadora=1
+dvd=3
+computador=2

@@ -1,0 +1,7 @@
+CristianSegura
+inquilinos=4
+televisor=2
+nevera=1
+lavadora=1
+dvd=2
+computador=3

@@ -1,0 +1,5 @@
+televisor
+nevera
+lavadora
+dvd
+computador
