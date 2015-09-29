@@ -1,0 +1,10 @@
+﻿Function = main_storage_server
+Brand| hewlett_packard
+Frec_processor[MHz]=2900
+Cant_processor[#]=2
+Cores[#]=4
+Ram[Gb]=8
+Cant_Hdd[#]=6
+Tot_cap_Hdd[Gb]=4200
+Pot[Watts]=700
+Location= informatic_security_console
