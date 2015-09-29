@@ -1,0 +1,9 @@
+Dedwin Santiago Grajales Machado
+2
+nevera=3
+estufa=2
+lavadora=3
+microhondas=1
+televisor=3
+ducha=4
+portatil=1

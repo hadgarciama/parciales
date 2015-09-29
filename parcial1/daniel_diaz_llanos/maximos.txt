@@ -1,0 +1,9 @@
+.
+.
+nevera=2
+estufa=1
+lavadora=1
+microhondas=2
+televisor=4
+ducha=2
+portatil=4
